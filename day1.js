@@ -1,3 +1,5 @@
+// day1: 사칙연산
+
 // 두 수의 합
 function solution1(num1, num2) {
   return num1 + num2;
