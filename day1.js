@@ -22,3 +22,11 @@ function solution3(num1, num2) {
 
 solution3(3, 4);
 solution3(27, 19);
+
+// 몫 구하기
+function solution4(num1, num2) {
+  return Math.floor(num1 / num2);
+}
+
+solution4(10, 5);
+solution4(7, 2);
